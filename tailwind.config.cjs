@@ -14,7 +14,8 @@ const config = {
     extend: {
       colors,
       fontFamily: {
-        inter: "Inter, sans-serif",
+        ptsans: "PT Sans, sans-serif",
+        ptserif: "PT Serif, serif",
       },
       fontSize: {
         '10xl': '10rem'
