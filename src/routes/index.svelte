@@ -1,33 +1,32 @@
 <div class="lg:relative">
-  <!-- <div class="mx-auto max-w-7xl w-full pt-16 pb-20 text-center lg:py-48 lg:text-left"> -->
-  <div class="relative flex items-center lg:h-screen">
+  <div class="relative lg:flex lg:items-center lg:h-screen">
     <div
-      class="lg:absolute w-1/2 flex items-center justify-between lg:top-8 lg:left-0 px-3 xs:px-4 sm:px-6 lg:px-7 xl:px-8 2xl:px-10"
+      class="lg:absolute w-full lg:w-1/2 flex items-start justify-between lg:top-0 lg:left-0 pt-6 px-3 xs:px-4 sm:px-6 lg:px-7 xl:px-8 2xl:px-10"
     >
       <div>
         <a
           href="/"
-          class="py-4 text-xl leading-3 font-bold font-ptserif text-blueGray-900"
-          >PLOSKER <span class="text-blueGray-500">GROUP</span>
-          <br /><span
+          class="text-xl leading-3 font-bold font-ptserif text-blueGray-900"
+          ><div class="mb-2">PLOSKER <span class="text-blueGray-500">GROUP</span></div>
+          <div
             class="text-xs tracking-wider leading-3 font-ptsans font-bold text-blueGray-500"
-            >ЮРИДИЧЕСКАЯ КОМПАНИЯ</span
+            >ЮРИДИЧЕСКАЯ КОМПАНИЯ</div
           ></a
         >
       </div>
       <div class="flex items-center self-start leading-3 space-x-4">
-        <a href="https://api.whatsapp.com/send?phone=79781381159" class="font-bold text-blueGray-500 text-xl">+7 978 138-11-59</a>
+        <a href="https://api.whatsapp.com/send?phone=79781381159" class="text-blueGray-500 text-base md:text-xl lg:text-2xl">+7 978 138-11-59</a>
       </div>
     </div>
-    <div class="container-fluid lg:w-1/2">
+    <div class="container-fluid w-full lg:w-1/2 my-10 lg:my-0">
       <h1
-        class="text-5xl xl:text-6xl 2xl:text-7xl font-bold text-blueGray-900 pt-8 mb-6 2xl:mb-12"
+        class="text-3xl xs:text-5xl xl:text-6xl 2xl:text-7xl font-bold text-blueGray-900 pt-0 mb-6 2xl:mb-12"
       >
         Специализация&nbsp;&mdash; <br /><span class="text-blueGray-500"
           >налоговое право</span
         >
       </h1>
-      <p class="text-xl xl:text-xl 2xl:text-3xl text-blueGray-500">
+      <p class="text-base xs:text-lg xl:text-xl 2xl:text-3xl text-blueGray-500">
         Налоговая практика для юридических лиц
         <br />и индивидуальных предпринимателей
       </p>
