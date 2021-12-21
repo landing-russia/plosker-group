@@ -6,27 +6,27 @@
       <div>
         <a
           href="/"
-          class="text-xl leading-3 font-bold font-ptserif text-blueGray-900"
-          ><div class="mb-2">PLOSKER <span class="text-blueGray-500">GROUP</span></div>
+          class="text-xl leading-3 font-bold font-ptserif text-slate-900"
+          ><div class="mb-2">PLOSKER <span class="text-slate-500">GROUP</span></div>
           <div
-            class="text-xs tracking-wider leading-3 font-ptsans font-bold text-blueGray-500"
+            class="text-xs tracking-wider leading-3 font-ptsans font-bold text-slate-500"
             >ЮРИДИЧЕСКАЯ КОМПАНИЯ</div
           ></a
         >
       </div>
       <div class="flex items-center self-start leading-3 space-x-4">
-        <a href="https://api.whatsapp.com/send?phone=79781381159" class="text-blueGray-500 text-base md:text-xl lg:text-2xl">+7 978 138-11-59</a>
+        <a href="https://api.whatsapp.com/send?phone=79781381159" class="text-slate-500 text-base md:text-xl lg:text-2xl">+7 978 138-11-59</a>
       </div>
     </div>
     <div class="container-fluid w-full lg:w-1/2 my-10 lg:my-0">
       <h1
-        class="text-3xl xs:text-5xl xl:text-6xl 2xl:text-7xl font-bold text-blueGray-900 pt-0 mb-6 2xl:mb-12"
+        class="text-3xl xs:text-5xl xl:text-6xl 2xl:text-7xl font-bold text-slate-900 pt-0 mb-6 2xl:mb-12"
       >
-        Специализация&nbsp;&mdash; <br /><span class="text-blueGray-500"
+        Специализация&nbsp;&mdash; <br /><span class="text-slate-500"
           >налоговое право</span
         >
       </h1>
-      <p class="text-base xs:text-lg xl:text-xl 2xl:text-3xl text-blueGray-500">
+      <p class="text-base xs:text-lg xl:text-xl 2xl:text-3xl text-slate-500">
         Налоговая практика для юридических лиц
         <br />и индивидуальных предпринимателей
       </p>
